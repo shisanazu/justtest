@@ -4,6 +4,8 @@
 public class TestOne1 {
     public static void main(String[] args) {
 		 System.out.println("-->" + args);
+		 // test 1122
 		 // test 2233
+		 // test 1008
     }
 }
